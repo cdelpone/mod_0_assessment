@@ -6,7 +6,11 @@ num_9 = 9
 sum = num_3 + num_9
 animals = ["lion", "tiger", "bear"]
 
+# testing my code
+puts sum
+
 animals.shift()
-puts animals # testing my code 
+# testing my code
+puts animals
 
 puts famous_person.length
